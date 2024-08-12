@@ -57,7 +57,6 @@ input#datetime-picker:disabled {
   font-size: 16px;
   letter-spacing: 0.04em;
   color: #fff;
-  /* cursor: pointer; */
 }
 button:hover {
   background: #6c8cff;
@@ -129,7 +128,7 @@ fieldset {
   border-radius: 4px;
   border: 1px solid #808080;
   padding: 16px 48px 16px 48px;
-  /* margin: 0; */
+
   display: flex;
   align-items: center;
   justify-content: space-between;
